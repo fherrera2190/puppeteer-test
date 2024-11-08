@@ -1,25 +1,9 @@
-import puppeteer from "puppeteer";
+import fs from "fs";
+const nnt = encodeURIComponent("mayonesa hellman 500");
+const url = `https://api.cotodigital.com.ar/sitios/cdigi/categoria?Ntt=${nnt}&format=json`;
 
-try {
-  const browser = await puppeteer.launch({
-    headless: false,
-    args: ["--start-maximized"],
-  });
-  const page = await browser.newPage();
+const response = await fetch(url);
 
-  await page.goto("https://api.cotodigital.com.ar/");
+const data = await response.json();
 
-  //Usa el método $x para seleccionar un elemento con XPath
-  const element = await page.waitForSelector(
-    '::-p-xpath(//input[@id="dropdownMenuClickableInside"])'
-  );
-  console.log(element);
-  await page
-    .locator('xpath///input[@id="dropdownMenuClickableInside"]')
-    .fill("coca cola");
-  await page.keyboard.press("Enter");
-
-  const searchResultSelector = ".productos row";
-  await page.waitForSelector(searchResultSelector);
-  
-} catch (error) {}
+fs.writeFileSync("productos.json", JSON.stringify(data, null, 2));

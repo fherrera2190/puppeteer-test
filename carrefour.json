@@ -1,0 +1,293 @@
+[
+  {
+    "itemId": "11724",
+    "name": "Gaseosa cola Coca Cola Zero 500 ml",
+    "nameComplete": "Gaseosa cola Coca Cola Zero 500 ml",
+    "ean": "7790895067532",
+    "images": {
+      "cacheId": "417135",
+      "imageId": "417135",
+      "imageLabel": "",
+      "imageTag": "",
+      "imageUrl": "https://carrefourar.vtexassets.com/arquivos/ids/417135/7790895067532_E01.jpg?v=638356502879370000",
+      "imageText": "",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "CARREFOUR",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [
+          {
+            "name": "Tarjeta Carrefour 15%",
+            "conditions": {
+              "minimumQuantity": 0,
+              "parameters": [
+                {
+                  "name": "RestrictionsBins",
+                  "value": "507858,858110,858111,585274,538156,520225,539958,527061,898989",
+                  "__typename": "TeaserValue"
+                }
+              ],
+              "__typename": "TeaserCondition"
+            },
+            "effects": {
+              "parameters": [
+                {
+                  "name": "PercentualDiscount",
+                  "value": "15",
+                  "__typename": "TeaserValue"
+                }
+              ],
+              "__typename": "TeaserEffects"
+            },
+            "__typename": "Teaser"
+          },
+          {
+            "name": "PROMO-3x2 Max 48 Unidades Iguales  -Reg-3-100- Black II 5/11 al 13/11",
+            "conditions": {
+              "minimumQuantity": 3,
+              "parameters": [
+                {
+                  "name": "CollectionsIdsList",
+                  "value": "16727",
+                  "__typename": "TeaserValue"
+                }
+              ],
+              "__typename": "TeaserCondition"
+            },
+            "effects": {
+              "parameters": [
+                {
+                  "name": "PercentualDiscount",
+                  "value": "33.33",
+                  "__typename": "TeaserValue"
+                }
+              ],
+              "__typename": "TeaserEffects"
+            },
+            "__typename": "Teaser"
+          }
+        ],
+        "Price": 1500,
+        "ListPrice": 1500,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 1500,
+        "PriceWithoutDiscount": 1500,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-08T18:44:51Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 500,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 1500,
+            "NumberOfInstallments": 3,
+            "Name": "Visa 3 vezes sem juros",
+            "PaymentSystemName": "Visa",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "24238",
+    "name": "Gaseosa cola Coca Cola sabor original 500 ml",
+    "nameComplete": "Gaseosa cola Coca Cola sabor original 500 ml",
+    "ean": "7790895000782",
+    "images": {
+      "cacheId": "332206",
+      "imageId": "332206",
+      "imageLabel": "",
+      "imageTag": "",
+      "imageUrl": "https://carrefourar.vtexassets.com/arquivos/ids/332206/7790895000782_E01.jpg?v=638211437573270000",
+      "imageText": "",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "CARREFOUR",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [
+          {
+            "name": "Tarjeta Carrefour 15%",
+            "conditions": {
+              "minimumQuantity": 0,
+              "parameters": [
+                {
+                  "name": "RestrictionsBins",
+                  "value": "507858,858110,858111,585274,538156,520225,539958,527061,898989",
+                  "__typename": "TeaserValue"
+                }
+              ],
+              "__typename": "TeaserCondition"
+            },
+            "effects": {
+              "parameters": [
+                {
+                  "name": "PercentualDiscount",
+                  "value": "15",
+                  "__typename": "TeaserValue"
+                }
+              ],
+              "__typename": "TeaserEffects"
+            },
+            "__typename": "Teaser"
+          },
+          {
+            "name": "PROMO-3x2 Max 48 Unidades Iguales  -Reg-3-100- Black II 5/11 al 13/11",
+            "conditions": {
+              "minimumQuantity": 3,
+              "parameters": [
+                {
+                  "name": "CollectionsIdsList",
+                  "value": "16727",
+                  "__typename": "TeaserValue"
+                }
+              ],
+              "__typename": "TeaserCondition"
+            },
+            "effects": {
+              "parameters": [
+                {
+                  "name": "PercentualDiscount",
+                  "value": "33.33",
+                  "__typename": "TeaserValue"
+                }
+              ],
+              "__typename": "TeaserEffects"
+            },
+            "__typename": "Teaser"
+          }
+        ],
+        "Price": 1249,
+        "ListPrice": 1249,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 1249,
+        "PriceWithoutDiscount": 1249,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-08T18:43:21Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 416.33,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 1249,
+            "NumberOfInstallments": 3,
+            "Name": "Visa 3 vezes sem juros",
+            "PaymentSystemName": "Visa",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "11615",
+    "name": "Gaseosa cola Coca Cola sabor liviano 500 ml",
+    "nameComplete": "Gaseosa cola Coca Cola sabor liviano 500 ml",
+    "ean": "7790895001482",
+    "images": {
+      "cacheId": "395287",
+      "imageId": "395287",
+      "imageLabel": "",
+      "imageTag": "",
+      "imageUrl": "https://carrefourar.vtexassets.com/arquivos/ids/395287/7790895001482_E01.jpg?v=638326494257700000",
+      "imageText": "",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "CARREFOUR",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [
+          {
+            "name": "Tarjeta Carrefour 15%",
+            "conditions": {
+              "minimumQuantity": 0,
+              "parameters": [
+                {
+                  "name": "RestrictionsBins",
+                  "value": "507858,858110,858111,585274,538156,520225,539958,527061,898989",
+                  "__typename": "TeaserValue"
+                }
+              ],
+              "__typename": "TeaserCondition"
+            },
+            "effects": {
+              "parameters": [
+                {
+                  "name": "PercentualDiscount",
+                  "value": "15",
+                  "__typename": "TeaserValue"
+                }
+              ],
+              "__typename": "TeaserEffects"
+            },
+            "__typename": "Teaser"
+          },
+          {
+            "name": "PROMO-3x2 Max 48 Unidades Iguales  -Reg-3-100- Black II 5/11 al 13/11",
+            "conditions": {
+              "minimumQuantity": 3,
+              "parameters": [
+                {
+                  "name": "CollectionsIdsList",
+                  "value": "16727",
+                  "__typename": "TeaserValue"
+                }
+              ],
+              "__typename": "TeaserCondition"
+            },
+            "effects": {
+              "parameters": [
+                {
+                  "name": "PercentualDiscount",
+                  "value": "33.33",
+                  "__typename": "TeaserValue"
+                }
+              ],
+              "__typename": "TeaserEffects"
+            },
+            "__typename": "Teaser"
+          }
+        ],
+        "Price": 1500,
+        "ListPrice": 1500,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 1500,
+        "PriceWithoutDiscount": 1500,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-08T18:50:06Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 500,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 1500,
+            "NumberOfInstallments": 3,
+            "Name": "Visa 3 vezes sem juros",
+            "PaymentSystemName": "Visa",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  }
+]
