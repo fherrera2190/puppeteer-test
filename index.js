@@ -6,4 +6,4 @@ const response = await fetch(url);
 
 const data = await response.json();
 
-fs.writeFileSync("productos.json", JSON.stringify(data, null, 2));
+fs.writeFileSync("coto.json", JSON.stringify(data, null, 2));

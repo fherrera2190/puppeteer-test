@@ -1,0 +1,962 @@
+[
+  {
+    "itemId": "247236",
+    "name": "Cuarto Trasero De Pollo Granel Fresco",
+    "nameComplete": "Cuarto Trasero De Pollo Granel Fresco",
+    "ean": "2546587000005",
+    "images": {
+      "cacheId": "672122",
+      "imageId": "672122",
+      "imageLabel": "22460201001-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/672122/Cuarto-Trasero-De-Pollo-1-247826.jpg?v=637703409896500000",
+      "imageText": "22460201001-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 1899,
+          "ListPrice": 1899,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 189.9,
+          "PriceWithoutDiscount": 1899,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-09T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 6.33,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 189.9,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "247239",
+    "name": "Suprema De Pollo Granel Fresca",
+    "nameComplete": "Suprema De Pollo Granel Fresca",
+    "ean": "2546614000008",
+    "images": {
+      "cacheId": "825742",
+      "imageId": "825742",
+      "imageLabel": "",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/825742/1.jpg?v=638539675411130000",
+      "imageText": "",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 5899,
+          "ListPrice": 5899,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 589.9,
+          "PriceWithoutDiscount": 5899,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-09T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 19.66,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 589.9,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "248389",
+    "name": "Pollo Con Menudos Congelado",
+    "nameComplete": "Pollo Con Menudos Congelado",
+    "ean": "2546364000006",
+    "images": {
+      "cacheId": "676549",
+      "imageId": "676549",
+      "imageLabel": "22440301001-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/676549/Pollo-Congelado-1-248985.jpg?v=637727602125130000",
+      "imageText": "22440301001-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 2619,
+          "ListPrice": 2619,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 261.9,
+          "PriceWithoutDiscount": 2619,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-08T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 8.73,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 261.9,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "24060",
+    "name": "Pollo Fresco Con Menudos",
+    "nameComplete": "Pollo Fresco Con Menudos",
+    "ean": "2582916000001",
+    "images": {
+      "cacheId": "676545",
+      "imageId": "676545",
+      "imageLabel": "22440106001-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/676545/Pollo-1-24829.jpg?v=637727602033300000",
+      "imageText": "22440106001-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 2619,
+          "ListPrice": 2619,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 261.9,
+          "PriceWithoutDiscount": 2619,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-10T02:44:48Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 8.73,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 261.9,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "32442",
+    "name": "Pechuga De Pollo",
+    "nameComplete": "Pechuga De Pollo",
+    "ean": "2594480000004",
+    "images": {
+      "cacheId": "674425",
+      "imageId": "674425",
+      "imageLabel": "22460306001-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/674425/Pechuga-De-Pollo-1-33239.jpg?v=637715722144800000",
+      "imageText": "22460306001-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 7469,
+          "ListPrice": 7469,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 746.9,
+          "PriceWithoutDiscount": 7469,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-05T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 24.89,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 746.9,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "32418",
+    "name": "Muslo De Pollo",
+    "nameComplete": "Muslo De Pollo",
+    "ean": "2594477000000",
+    "images": {
+      "cacheId": "674423",
+      "imageId": "674423",
+      "imageLabel": "22460303001-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/674423/Muslo-De-Pollo-Por-Kg-1-33215.jpg?v=637715722129630000",
+      "imageText": "22460303001-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 4265,
+          "ListPrice": 4265,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 426.5,
+          "PriceWithoutDiscount": 4265,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-08T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 14.21,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 426.5,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "32449",
+    "name": "Pata De Pollo",
+    "nameComplete": "Pata De Pollo",
+    "ean": "2594478000009",
+    "images": {
+      "cacheId": "674427",
+      "imageId": "674427",
+      "imageLabel": "22460304001-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/674427/Pata-Con-Piel-1-33246.jpg?v=637715722154670000",
+      "imageText": "22460304001-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 4365,
+          "ListPrice": 4365,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 436.5,
+          "PriceWithoutDiscount": 4365,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-05T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 14.55,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 436.5,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "33417",
+    "name": "Pollo Parrillero",
+    "nameComplete": "Pollo Parrillero",
+    "ean": "2594507000000",
+    "images": {
+      "cacheId": "827564",
+      "imageId": "827564",
+      "imageLabel": "22460310001-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/827564/Pollo-Parrillero-1-34214.jpg?v=638560498310330000",
+      "imageText": "22460310001-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 3499,
+          "ListPrice": 3499,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 349.9,
+          "PriceWithoutDiscount": 3499,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-09T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 11.66,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 349.9,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "387733",
+    "name": "Patitas De Pollo Granja Del Sol 400 Gr",
+    "nameComplete": "Patitas De Pollo Granja Del Sol 400 Gr",
+    "ean": "7790070035936",
+    "images": {
+      "cacheId": "826596",
+      "imageId": "826596",
+      "imageLabel": "",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/826596/21450303036.jpg?v=638555196718830000",
+      "imageText": "",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 5531,
+          "ListPrice": 5531,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 5531,
+          "PriceWithoutDiscount": 5531,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-08T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 184.36,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 5531,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "388177",
+    "name": "Patitas De Pollo Granja Del Sol 1100 Gr",
+    "nameComplete": "Patitas De Pollo Granja Del Sol 1100 Gr",
+    "ean": "7790070035950",
+    "images": {
+      "cacheId": "826595",
+      "imageId": "826595",
+      "imageLabel": "",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/826595/21450303037.jpg?v=638555196130570000",
+      "imageText": "",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 14880,
+          "ListPrice": 14880,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 14880,
+          "PriceWithoutDiscount": 14880,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-08T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 496,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 14880,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "389040",
+    "name": "Nuggets Granja Del Sol 400 Gr",
+    "nameComplete": "Nuggets Granja Del Sol 400 Gr",
+    "ean": "7790070034410",
+    "images": {
+      "cacheId": "814803",
+      "imageId": "814803",
+      "imageLabel": "21450344004-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/814803/Nuggets-Granja-Del-Sol-400-Gr-Nuggets-Granja-Del-Sol-400g-1-947151.jpg?v=638463730225700000",
+      "imageText": "21450344004-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 6983,
+          "ListPrice": 6983,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 6983,
+          "PriceWithoutDiscount": 6983,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-08T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 232.76,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 6983,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "410141",
+    "name": "Formitas De Pollo Lucchetti 350gr",
+    "nameComplete": "Formitas De Pollo Lucchetti 350gr",
+    "ean": "7790070036636",
+    "images": {
+      "cacheId": "804908",
+      "imageId": "804908",
+      "imageLabel": "21450348006-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/804908/Formitas-De-Pollo-Lucchetti-350gr-1-1001625.jpg?v=638387702886430000",
+      "imageText": "21450348006-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 3754,
+          "ListPrice": 3754,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 3754,
+          "PriceWithoutDiscount": 3754,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-08T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 125.13,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 3754,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "318308",
+    "name": "Palito De Pollo Swift  1 Kg",
+    "nameComplete": "Palito De Pollo Swift  1 Kg",
+    "ean": "7790360971395",
+    "images": {
+      "cacheId": "619129",
+      "imageId": "619129",
+      "imageLabel": "21450341007-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/619129/Palito-De-Pollo-Swift-X-1-Kg-1-856907.jpg?v=637457162763270000",
+      "imageText": "21450341007-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 11827,
+          "ListPrice": 11827,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 11827,
+          "PriceWithoutDiscount": 11827,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-06T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 394.23,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 11827,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "388156",
+    "name": "Supremitas Granja Del Sol Rociadas 480 Gr",
+    "nameComplete": "Supremitas Granja Del Sol Rociadas 480 Gr",
+    "ean": "7790070036148",
+    "images": {
+      "cacheId": "771617",
+      "imageId": "771617",
+      "imageLabel": "21450530001-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/771617/Supremitas-Granja-Del-Sol-Rociadas-480g-1-945512.jpg?v=638132062682700000",
+      "imageText": "21450530001-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 8021,
+          "ListPrice": 8021,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 8021,
+          "PriceWithoutDiscount": 8021,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-08T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 267.36,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 8021,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "29110",
+    "name": "Bocaditos Swift De Pollo 380 Gr",
+    "nameComplete": "Bocaditos Swift De Pollo 380 Gr",
+    "ean": "7790360024336",
+    "images": {
+      "cacheId": "340118",
+      "imageId": "340118",
+      "imageLabel": "21450341002-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/340118/Bocaditos-Swift-De-Pollo-380-Gr-1-29893.jpg?v=636439404321500000",
+      "imageText": "21450341002-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 4235,
+          "ListPrice": 4235,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 4235,
+          "PriceWithoutDiscount": 4235,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-06T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 141.16,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 4235,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "388178",
+    "name": "Medallones De Pollo Granja Del Sol Rociado 330 Gr",
+    "nameComplete": "Medallones De Pollo Granja Del Sol Rociado 330 Gr",
+    "ean": "7790070036131",
+    "images": {
+      "cacheId": "771620",
+      "imageId": "771620",
+      "imageLabel": "21450524006-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/771620/Medallones-De-Pollo-Granja-Del-Sol-Rociado-330-1-945534.jpg?v=638132062690530000",
+      "imageText": "21450524006-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 5387,
+          "ListPrice": 5387,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 5387,
+          "PriceWithoutDiscount": 5387,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-08T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 179.56,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 5387,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "347680",
+    "name": "Formitas De Pollo Cuisine And Co. Congelados 400 Gr",
+    "nameComplete": "Formitas De Pollo Cuisine And Co. Congelados 400 Gr",
+    "ean": "7792052067195",
+    "images": {
+      "cacheId": "696304",
+      "imageId": "696304",
+      "imageLabel": "21450352001-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/696304/Formitas-De-Pollo-Congelados-Cuisine-co-400gr-1-887601.jpg?v=637854611223770000",
+      "imageText": "21450352001-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 4440,
+          "ListPrice": 4440,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 4440,
+          "PriceWithoutDiscount": 4440,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-06T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 148,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 4440,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "389047",
+    "name": "Suprema De Pollo Granja Del Sol 360 Gr",
+    "nameComplete": "Suprema De Pollo Granja Del Sol 360 Gr",
+    "ean": "7790070036063",
+    "images": {
+      "cacheId": "773729",
+      "imageId": "773729",
+      "imageLabel": "21450503002-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/773729/Suprema-De-Pollo-Granja-Del-Sol-360g-1-947159.jpg?v=638145021855500000",
+      "imageText": "21450503002-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 6874,
+          "ListPrice": 6874,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 6874,
+          "PriceWithoutDiscount": 6874,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-08T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 229.13,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 6874,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "347683",
+    "name": "Nuggets Cuisine And Co. Congelados 300 Gr",
+    "nameComplete": "Nuggets Cuisine And Co. Congelados 300 Gr",
+    "ean": "7792052067218",
+    "images": {
+      "cacheId": "696307",
+      "imageId": "696307",
+      "imageLabel": "21450353001-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/696307/Nuggets-Congelados-Cuisine-co-300gr-1-887604.jpg?v=637854611232530000",
+      "imageText": "21450353001-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 3821,
+          "ListPrice": 3821,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 3821,
+          "PriceWithoutDiscount": 3821,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-06T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 127.36,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 3821,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  },
+  {
+    "itemId": "389035",
+    "name": "Medallon De Pollo Lucchetti 280 Gr",
+    "nameComplete": "Medallon De Pollo Lucchetti 280 Gr",
+    "ean": "7790070036117",
+    "images": {
+      "cacheId": "773719",
+      "imageId": "773719",
+      "imageLabel": "21450333001-01",
+      "imageTag": "",
+      "imageUrl": "https://veaargentina.vtexassets.com/arquivos/ids/773719/Medallon-De-Pollo-Lucchetti-280g-1-947148.jpg?v=638145021828000000",
+      "imageText": "21450333001-01",
+      "__typename": "Image"
+    },
+    "sellers": [
+      {
+        "sellerId": "1",
+        "sellerName": "Jumbo Argentina IO",
+        "sellerDefault": true,
+        "commertialOffer": {
+          "discountHighlights": [],
+          "teasers": [],
+          "Price": 2985,
+          "ListPrice": 2985,
+          "Tax": 0,
+          "taxPercentage": 0,
+          "spotPrice": 2985,
+          "PriceWithoutDiscount": 2985,
+          "RewardValue": 0,
+          "PriceValidUntil": "2025-11-08T03:00:00Z",
+          "AvailableQuantity": 10000,
+          "Installments": [
+            {
+              "Value": 99.5,
+              "InterestRate": 0,
+              "TotalValuePlusInterestRate": 2985,
+              "NumberOfInstallments": 30,
+              "Name": "American Express",
+              "PaymentSystemName": "American Express",
+              "__typename": "Installment"
+            }
+          ],
+          "__typename": "Offer"
+        },
+        "__typename": "Seller"
+      }
+    ]
+  }
+]

@@ -1,0 +1,922 @@
+[
+  {
+    "itemId": "390873",
+    "name": "Arroz Parboil Gallo Oro En Bolsa 1 Kg",
+    "nameComplete": "Arroz Parboil Gallo Oro En Bolsa 1 Kg",
+    "ean": "7790070431417",
+    "images": {
+      "cacheId": "777697",
+      "imageId": "777697",
+      "imageLabel": "11450502017-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/777697/Collar-Para-Gato-Pets-Fun-Colores-1-951065.jpg?v=638175262654700000",
+      "imageText": "11450502017-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 3250,
+        "ListPrice": 3250,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 3250,
+        "PriceWithoutDiscount": 3250,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-08T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 108.33,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 3250,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "2975",
+    "name": "Arroz Ala Grano Largo Fino - 1 Kg",
+    "nameComplete": "Arroz Ala Grano Largo Fino - 1 Kg",
+    "ean": "7791120031557",
+    "images": {
+      "cacheId": "625788",
+      "imageId": "625788",
+      "imageLabel": "11450507001-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/625788/Arroz-Ala-Grano-Largo-Fino-1-Kg-1-3614.jpg?v=637528440071470000",
+      "imageText": "11450507001-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 2600,
+        "ListPrice": 2600,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 2600,
+        "PriceWithoutDiscount": 2600,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-08T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 86.66,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 2600,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "43546",
+    "name": "Arroz Largo Fino Primor 1 Kg",
+    "nameComplete": "Arroz Largo Fino Primor 1 Kg",
+    "ean": "7794870001344",
+    "images": {
+      "cacheId": "687701",
+      "imageId": "687701",
+      "imageLabel": "11450592001-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/687701/Arroz-Largo-Fino-Primor-1-Kg-1-44365.jpg?v=637799421717830000",
+      "imageText": "11450592001-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 1699,
+        "ListPrice": 1699,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 1699,
+        "PriceWithoutDiscount": 1699,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-10-23T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 56.63,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 1699,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "396733",
+    "name": "Arroz Gallo Doble Carolina Selec X1kg",
+    "nameComplete": "Arroz Gallo Doble Carolina Selec X1kg",
+    "ean": "7790070431578",
+    "images": {
+      "cacheId": "788742",
+      "imageId": "788742",
+      "imageLabel": "11450302015-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/788742/Arroz-Gallo-Doble-Carolina-Selec-X1kg-1-974346.jpg?v=638258097751930000",
+      "imageText": "11450302015-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 5150,
+        "ListPrice": 5150,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 5150,
+        "PriceWithoutDiscount": 5150,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-10-26T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 171.66,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 5150,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "403656",
+    "name": "Arroz Doble Carolina Gallo 500 Gr",
+    "nameComplete": "Arroz Doble Carolina Gallo 500 Gr",
+    "ean": "7790070431431",
+    "images": {
+      "cacheId": "793501",
+      "imageId": "793501",
+      "imageLabel": "11450302016-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/793501/Arroz-Gallo-Doble-Carolina-X500g-Arroz-Gallo-Doble-Carolina-X500g-1-994871.jpg?v=638303241848030000",
+      "imageText": "11450302016-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 2550,
+        "ListPrice": 2550,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 2550,
+        "PriceWithoutDiscount": 2550,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-10-26T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 85,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 2550,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "335744",
+    "name": "Arroz Parboil Cuisine & Co 1kg",
+    "nameComplete": "Arroz Parboil Cuisine & Co 1kg",
+    "ean": "7792052999014",
+    "images": {
+      "cacheId": "651428",
+      "imageId": "651428",
+      "imageLabel": "11450101003-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/651428/Arroz-Parboil-Cuisine-Co-1kg-1-875368.jpg?v=637600153493130000",
+      "imageText": "11450101003-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 2500,
+        "ListPrice": 2500,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 2500,
+        "PriceWithoutDiscount": 2500,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-10-22T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 83.33,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 2500,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "409699",
+    "name": "Arroz Gallo Oro Selec Paraboil X1kg",
+    "nameComplete": "Arroz Gallo Oro Selec Paraboil X1kg",
+    "ean": "7790070433091",
+    "images": {
+      "cacheId": "803457",
+      "imageId": "803457",
+      "imageLabel": "11450502019-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/803457/Arroz-Gallo-Oro-Selec-Paraboil-X1kg-1-1001173.jpg?v=638379921950070000",
+      "imageText": "11450502019-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 4100,
+        "ListPrice": 4100,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 4100,
+        "PriceWithoutDiscount": 4100,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-08T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 136.66,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 4100,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "330162",
+    "name": "Arroz Pairboil Dos Hermanos 1 Kg",
+    "nameComplete": "Arroz Pairboil Dos Hermanos 1 Kg",
+    "ean": "7790503199099",
+    "images": {
+      "cacheId": "637989",
+      "imageId": "637989",
+      "imageLabel": "11450538015-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/637989/Arroz-Dos-Hermanos-Pairboil-1-Kg-1-869767.jpg?v=637544430793970000",
+      "imageText": "11450538015-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 2650,
+        "ListPrice": 2650,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 2650,
+        "PriceWithoutDiscount": 2650,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-10-30T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 88.33,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 2650,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "409704",
+    "name": "Arroz Gallo Integral Selec X 500 Gr Gallo",
+    "nameComplete": "Arroz Gallo Integral Selec X 500 Gr Gallo",
+    "ean": "7790070433152",
+    "images": {
+      "cacheId": "803461",
+      "imageId": "803461",
+      "imageLabel": "11450102017-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/803461/Arroz-Gallo-Integral-Selec-X500g-1-1001178.jpg?v=638379921964870000",
+      "imageText": "11450102017-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 1850,
+        "ListPrice": 1850,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 1850,
+        "PriceWithoutDiscount": 1850,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-08T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 61.66,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 1850,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "409702",
+    "name": "Arroz Gallo Parboil Selec X 500 Gr Gallo",
+    "nameComplete": "Arroz Gallo Parboil Selec X 500 Gr Gallo",
+    "ean": "7790070433114",
+    "images": {
+      "cacheId": "803459",
+      "imageId": "803459",
+      "imageLabel": "11450510018-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/803459/Arroz-Gallo-Parboil-Selec-X500g-1-1001176.jpg?v=638379921958070000",
+      "imageText": "11450510018-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 1650,
+        "ListPrice": 1650,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 1650,
+        "PriceWithoutDiscount": 1650,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-08T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 55,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 1650,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "39679",
+    "name": "Arroz Carnaroli Gallo X500 Gr",
+    "nameComplete": "Arroz Carnaroli Gallo X500 Gr",
+    "ean": "7790070411792",
+    "images": {
+      "cacheId": "601813",
+      "imageId": "601813",
+      "imageLabel": "11450510014-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/601813/Arroz-Carnaroli-Gallo-500-Gr-1-40497.jpg?v=637352619941500000",
+      "imageText": "11450510014-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 3450,
+        "ListPrice": 3450,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 3450,
+        "PriceWithoutDiscount": 3450,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-08T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 115,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 3450,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "409846",
+    "name": "Arroz Doble Carolina Molinos Ala X1kg",
+    "nameComplete": "Arroz Doble Carolina Molinos Ala X1kg",
+    "ean": "7791120102905",
+    "images": {
+      "cacheId": "803590",
+      "imageId": "803590",
+      "imageLabel": "11450306007-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/803590/Arroz-Doble-Carolina-Molinos-Ala-X1kg-1-1001320.jpg?v=638379924256700000",
+      "imageText": "11450306007-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 4750,
+        "ListPrice": 4750,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 4750,
+        "PriceWithoutDiscount": 4750,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-10-22T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 158.33,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 4750,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "403671",
+    "name": "Arroz Parboil Luchetti 1 Kg",
+    "nameComplete": "Arroz Parboil Luchetti 1 Kg",
+    "ean": "7790070431509",
+    "images": {
+      "cacheId": "818537",
+      "imageId": "818537",
+      "imageLabel": "11450599020-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/818537/Arroz-Parboil-Luchetti-1-Kg-1-994886.jpg?v=638484681661070000",
+      "imageText": "11450599020-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 2850,
+        "ListPrice": 2850,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 2850,
+        "PriceWithoutDiscount": 2850,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-08T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 95,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 2850,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "335754",
+    "name": "Arroz 00000 Cuisine & Co 1kg",
+    "nameComplete": "Arroz Grano Largo 00000 Cuisine & Co 1kg Arroz 00000 Cuisine & Co 1kg",
+    "ean": "7792052998987",
+    "images": {
+      "cacheId": "651432",
+      "imageId": "651432",
+      "imageLabel": "11450101002-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/651432/Arroz-00000-Cuisine-Co-1kg-1-875378.jpg?v=637600153509230000",
+      "imageText": "11450101002-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 2400,
+        "ListPrice": 2400,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 2400,
+        "PriceWithoutDiscount": 2400,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-08T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 80,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 2400,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "403661",
+    "name": "Arroz Largo Fino Luchetti 1 Kg",
+    "nameComplete": "Arroz Largo Fino Luchetti 1 Kg",
+    "ean": "7790070431486",
+    "images": {
+      "cacheId": "818208",
+      "imageId": "818208",
+      "imageLabel": "11450599018-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/818208/Arroz-Largo-Fino-Luchetti-1-Kg-1-994875.jpg?v=638482955195770000",
+      "imageText": "11450599018-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 2600,
+        "ListPrice": 2600,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 2600,
+        "PriceWithoutDiscount": 2600,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-08T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 86.66,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 2600,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "330151",
+    "name": "Arroz Grano Largo Fino Dos Hermanos 1 Kg",
+    "nameComplete": "Arroz Grano Largo Fino Dos Hermanos 1 Kg",
+    "ean": "7790503199082",
+    "images": {
+      "cacheId": "637980",
+      "imageId": "637980",
+      "imageLabel": "11450538014-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/637980/Arroz-Dos-Hermanos-Grano-Largo-Fino-1-Kg-1-869755.jpg?v=637544430763470000",
+      "imageText": "11450538014-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 2370,
+        "ListPrice": 2370,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 2370,
+        "PriceWithoutDiscount": 2370,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-07T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 79,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 2370,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "403657",
+    "name": "Arroz Parboil Luchetti 500 Gr",
+    "nameComplete": "Arroz Parboil Luchetti 500 Gr",
+    "ean": "7790070431516",
+    "images": {
+      "cacheId": "818536",
+      "imageId": "818536",
+      "imageLabel": "11450599021-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/818536/Arroz-Parboil-Luchetti-500-Gr-1-994873.jpg?v=638484681657170000",
+      "imageText": "11450599021-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 1500,
+        "ListPrice": 1500,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 1500,
+        "PriceWithoutDiscount": 1500,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-08T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 50,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 1500,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "390874",
+    "name": "Arroz Gallo Largo Fino 1kg",
+    "nameComplete": "Arroz Gallo Largo Fino 1kg",
+    "ean": "7790070431448",
+    "images": {
+      "cacheId": "777698",
+      "imageId": "777698",
+      "imageLabel": "11450102013-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/777698/Juguete-Pets-Fun-Ratoncitos-1-951066.jpg?v=638175262657000000",
+      "imageText": "11450102013-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 3100,
+        "ListPrice": 3100,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 3100,
+        "PriceWithoutDiscount": 3100,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-08T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 103.33,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 3100,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "307057",
+    "name": "Arroz Largo Fino Vanguardia 1 Kg",
+    "nameComplete": "Arroz Largo Fino Vanguardia 1 Kg",
+    "ean": "7798078450126",
+    "images": {
+      "cacheId": "808868",
+      "imageId": "808868",
+      "imageLabel": "11450547001-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/808868/Arroz-Largo-Fino-Vanguardia-1-Kg-1-843902.jpg?v=638428306432170000",
+      "imageText": "11450547001-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 1699,
+        "ListPrice": 1699,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 1699,
+        "PriceWithoutDiscount": 1699,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-07T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 56.63,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 1699,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  },
+  {
+    "itemId": "9938",
+    "name": "Arroz Ala Grano Largo Dorado 1 Kg",
+    "nameComplete": "Arroz Ala Grano Largo Dorado 1 Kg",
+    "ean": "7791120037559",
+    "images": {
+      "cacheId": "625792",
+      "imageId": "625792",
+      "imageLabel": "11450507003-01",
+      "imageTag": "",
+      "imageUrl": "https://jumboargentinaio.vtexassets.com/arquivos/ids/625792/Arroz-Ala-Grano-Largo-Dorado-1-Kg-1-10622.jpg?v=637528440086170000",
+      "imageText": "11450507003-01",
+      "__typename": "Image"
+    },
+    "sellers": {
+      "sellerId": "1",
+      "sellerName": "Jumbo Argentina IO",
+      "sellerDefault": true,
+      "commertialOffer": {
+        "discountHighlights": [],
+        "teasers": [],
+        "Price": 3000,
+        "ListPrice": 3000,
+        "Tax": 0,
+        "taxPercentage": 0,
+        "spotPrice": 3000,
+        "PriceWithoutDiscount": 3000,
+        "RewardValue": 0,
+        "PriceValidUntil": "2025-11-01T03:00:00Z",
+        "AvailableQuantity": 10000,
+        "Installments": [
+          {
+            "Value": 100,
+            "InterestRate": 0,
+            "TotalValuePlusInterestRate": 3000,
+            "NumberOfInstallments": 30,
+            "Name": "American Express",
+            "PaymentSystemName": "American Express",
+            "__typename": "Installment"
+          }
+        ],
+        "__typename": "Offer"
+      },
+      "__typename": "Seller"
+    }
+  }
+]
